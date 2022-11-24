@@ -39,7 +39,7 @@
         </div>
         <div class="md-3">
             <label for="form-label">Típus</label>
-            <input type="text" class="form-control "name="type" placeholder="type"
+            <input type="text" class="form-control "name="type" placeholder="típus"
             value="{{ old('type') }}">
             @error('type')
             <div class="alert alert-danger" role="alert">

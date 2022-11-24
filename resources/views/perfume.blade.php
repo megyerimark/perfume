@@ -27,13 +27,13 @@
     </div>
     @endif
                 </div>
-                <table class="table">
+                <table class="table table-striped ">
                     <thead>
                         <tr>
                             <th>#</th>
                             <th>Név</th>
                             <th>Típus</th>
-                            <th>Ár</th>
+                            <th>Ár (FT)</th>
                            
                         </tr>
                         <tbody>
